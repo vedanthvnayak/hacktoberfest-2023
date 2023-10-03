@@ -1,5 +1,6 @@
 # Welcome to Drona AI Hacktoberfest Repository!
-Read Prbolem-statement.txt for more information
+
+Read `Problem-statement.txt` for more information
 
 [![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepoName)](https://github.com/YourUsername/YourRepoName/issues)
 [![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepoName)](https://github.com/YourUsername/YourRepoName/stargazers)
@@ -28,11 +29,11 @@ Welcome to our Hacktoberfest open-source project! We're thrilled that you're con
 
 ## About This Repository
 
-This repository [Your Project Name] is dedicated to Hacktoberfest. We invite you to contribute by submitting your pull requests and helping us improve our project. It's a fantastic opportunity to learn, collaborate, and be part of the open-source community.
+This repository `[Your Project Name]` is dedicated to Hacktoberfest. We invite you to contribute by submitting your pull requests and to help us improve our project. It's a fantastic opportunity to learn, collaborate, and be part of the open-source community.
 
 ## Getting Started
 
-Follow these steps to get started with your contribution:
+Follow these steps, to get started with your contribution:
 
 ### Fork the Repository
 
