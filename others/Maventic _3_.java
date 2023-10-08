@@ -20,23 +20,23 @@ public class Main
 {
 	public static void main(String[] args) {
 	    String s="aeioouaeiiu";//give your input here 
-	    String aa="";
-	    String bb="";
+	    String first_string="";
+	    String second_string="";
 	   for(int i=0;i<s.length();i++){
 	       if(s.charAt(i)=='a'||s.charAt(i)=='e'||s.charAt(i)=='i'||s.charAt(i)=='o'||s.charAt(i)=='u'){
-	           aa+=s.charAt(i);
+	           first_string+=s.charAt(i);
 	       }
 	           else{
-	               if(aa.length()>bb.length())
-	               bb=aa;
-	               aa="";
+	               if(first_string.length()>second_string.length())
+	               second_string=first_string;
+	               first_string="";
 	                   
 	               
 	           }
 	   }
-	   if(aa.length()>bb.length())// if the whole string only contains vowels 
-	               bb=aa;
+	   if(first_string.length()>second_string.length())// if the whole string only contains vowels 
+	               second_string=first_string;
 	               
-		System.out.println(bb);
+		System.out.println(second_string);
 	}
 }
